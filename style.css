@@ -1,0 +1,27 @@
+body {
+    background-image: url('https://i.scdn.co/image/ab67616d0000b273aad97938fa54d942e9550575');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: #ff00bf;
+    color: rgb(146, 2, 91);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+section {
+    background-color: rgb(216, 90, 255);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(175, 16, 16, 0.692);
+}
